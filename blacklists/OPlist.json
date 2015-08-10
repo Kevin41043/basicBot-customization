@@ -1,13 +1,15 @@
 {
     "1":{
-        "mid": "1:OPsongID1"
+        "title": "I love you",
+        "author": "OMFG",
+        "mid": "1:qn-X5A0gbMA"
     },
     "2":{
-        "title": "This is a OP song",
-        "author": "The OP band",
-        "mid": "1:OPsongID2"
+        "title": "Hello",
+        "author": "OMFG",
+        "mid": "1:ih2xubMaZWI"
     },
     "3":{
-        "mid": "1:OPsongID3"
+        "mid": "1:CzCjMbYZWN8"
     }
 }
