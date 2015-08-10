@@ -1,13 +1,56 @@
 {
     "1":{
-        "mid": "1:NSFWsongID1"
+    	"title": "Faded",
+    	"author": "ZHU",
+        "mid": "1:gl3GRVi5TGM"
     },
     "2":{
-        "title": "This is a NSFW song",
-        "author": "The NSFW band",
-        "mid": "1:NSFWsongID2"
+        "title": "Faded",
+        "author": "ZHU",
+        "mid": "1:zk3r-K8TQ5g"
     },
     "3":{
-        "mid": "1:NSFWsongID3"
+    	"title": "Girls",
+    	"author": "Nirvana",
+        "mid": "1:wsUQKw4ByVg"
+    },
+    "4":{
+    	"title": "Girls",
+    	"author": "Nirvana",
+    	"mid": "1:YTSuCW3-xAM"
+    },
+    "5":{
+    	"mid": "1:C5kpT38BQqo"
+    },
+    "6":{
+    	"title": "King of my castle",
+    	"author": "Wamdue Project",
+    	"mid": "1:lbQCf8F1JsE"
+    },
+    "7":{
+    	"mid": "1:UVumoIw-Rqg"
+    },
+    "8":{
+    	"mid": "1:DXSyQjppqG0"
+    },
+    "9":{
+    	"title": "DyE",
+    	"author": "Fantasy",
+    	"mid": "1:6QFwo57WKwg"
+    },
+    "10":{
+    	"title": "Bass Slut",
+    	"author": "S3RL",
+    	"mid": "1:0v394-c6HA4"
+    },
+    "11":{
+    	"title": "Turn Down For What",
+    	"author": "DJ Snake and Lil Jon",
+    	"mid": "1:HMUDVMiITOU"
+    },
+    "12":{
+    	"title": "Satisfaction",
+    	"author": "Benny Benassi",
+    	"mid": "1:V5bYDhZBFLA"
     }
 }
