@@ -467,6 +467,6 @@ if (API.getUser(data.uid).id == 6363341){
     }));
 
     //Start the bot and extend it when it has loaded.
-    $.getScript("https://rawgit.com/Dazzuh/basicBot/master/basicBot.js", extend);
+    $.getScript("https://rawgit.com/Kevin41043/basicBot/master/basicBot.js", extend);
 
 }).call(this);
